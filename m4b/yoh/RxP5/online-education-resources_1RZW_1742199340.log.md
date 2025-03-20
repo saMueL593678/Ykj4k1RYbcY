@@ -85,7 +85,6 @@ Welcome to the **Student-ify Experience** platform! Our mission is to foster an 
 
 ---
 
-## 8️⃣ Reporting Issues
 - If you experience or witness behavior that violates this Code of Conduct, please report it immediately to [admin email/contact form].
 - All reports will be reviewed and addressed promptly and confidentially.
 
