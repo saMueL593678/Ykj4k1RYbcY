@@ -39,7 +39,6 @@ yarn lint
 ## Testing
 
 To make sure your changes didn't break anything, use the `test` task to run all tests:
-
 yarn test
 ```
 
