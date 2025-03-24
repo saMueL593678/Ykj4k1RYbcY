@@ -1102,7 +1102,6 @@ shinyServer(function(input, output) {
   })
   
   output$Prueba4 <- renderPrint({
-    
     testanalitico4()
     
   })
