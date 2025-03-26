@@ -8,7 +8,6 @@ coverage:
         target: 0
         threshold: null
         base: auto
-    patch:
       default:
         threshold: null
         base: auto
