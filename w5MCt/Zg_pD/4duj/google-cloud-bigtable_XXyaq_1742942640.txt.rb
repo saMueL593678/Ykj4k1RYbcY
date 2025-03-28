@@ -40,7 +40,6 @@ post '/receive_transcription' do
   rescue 
     result = Crack::JSON.parse env['rack.request.form_hash'].to_s
     logger.info 'JSON Response encoded to Ruby Hash'
-  end
   logger.info result.inspect
   
   # Create a new shout and redirect back to the list.
