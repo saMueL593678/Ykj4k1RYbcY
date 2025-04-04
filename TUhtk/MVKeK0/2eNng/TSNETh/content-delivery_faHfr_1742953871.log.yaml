@@ -16,7 +16,6 @@
 # under the License.
 #
 # ATC Collaborators for November 2024
-# Collaborators are contributors, other than committers, who have had 2 or more Issue-closing Pull Requests merged
 # in the past 31 days. If you want to be an Apache Traffic Control collaborator:
 # 1. Read our contribution guidelines at https://github.com/apache/trafficcontrol/blob/master/CONTRIBUTING.md
 # 2. Find an Issue to work on: https://github.com/apache/trafficcontrol/issues?q=is:issue+is:open+label:"good+first+issue"+no:assignee
