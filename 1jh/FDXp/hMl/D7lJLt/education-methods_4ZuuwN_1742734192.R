@@ -303,7 +303,6 @@ shinyServer(function(input, output) {
       geom_point(shape=18,color="blue",size=3)+
       geom_smooth(method = lm,linetype="dashed",color="black",fill="peachpuff")+
       labs(title = paste("\n",variabletrans()[1,2], "vs", Trans2()[1,2], "\n"),x=paste(Trans2()[1,2]),y=paste(variabletrans()[1,2],"\n"))+
-      theme(plot.title = element_text(color="navy", size=18, face="bold.italic",hjust=0.5),
             axis.title.x = element_text(color="navy", size=15, face="bold"),
             axis.text.x = element_text(size=13),
             axis.title.y = element_text(color="navy", size=15, face="bold"),
