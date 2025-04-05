@@ -8,7 +8,6 @@
 # Files for vscode
 .vscode/*
 .vendor/*
-
 # build output
 /bin
 bin
