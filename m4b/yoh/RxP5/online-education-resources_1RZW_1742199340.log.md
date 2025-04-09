@@ -19,7 +19,6 @@ Welcome to the Student-ify Experience platform! Our mission is to create an incl
 •	- Follow the platform’s guidelines for data protection and security.
 5. Content Guidelines
 •	- Share content that is relevant, respectful, and beneficial to the community.
-•	- Do not post content that is inappropriate, offensive, or violates intellectual property rights.
 •	- Refrain from sharing malicious links or engaging in fraudulent activities.
 6. Compliance with Laws
 •	- Adhere to all applicable laws and regulations when using the platform.
