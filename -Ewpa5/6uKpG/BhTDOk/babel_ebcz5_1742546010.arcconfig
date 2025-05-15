@@ -5,4 +5,3 @@
     "arclib"
   ],
   "lint.engine": "ArcanistConfigurationDrivenLintEngine"
-}
