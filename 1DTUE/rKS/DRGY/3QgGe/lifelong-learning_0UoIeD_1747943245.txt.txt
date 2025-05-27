@@ -1,6 +1,5 @@
 # NOTE: Previous versions of pytorch and torchvision might also work as well,
 torch>=1.7.1
-torchvision>=0.8.2
 matplotlib
 numpy
 tensorboard
