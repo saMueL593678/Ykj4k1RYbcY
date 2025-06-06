@@ -114,7 +114,6 @@ Vagrant.configure("2") do |config|
         end
 
         # Otherwise using VirtualBox
-        box.vm.provider :virtualbox do |vbox|
 
           # Things will fail if running Windows + VirtualBox without vbguest
           if Vagrant::Util::Platform.windows?
